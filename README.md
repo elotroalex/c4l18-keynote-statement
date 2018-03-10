@@ -153,6 +153,8 @@ unprofessional behavior.
 * Helene Williams
 * Cathy Aster
 * Kyle R. Rimkus
+* Sarah Shreeves
+* Alex Gil
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
